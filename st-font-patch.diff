@@ -1,5 +1,5 @@
---- config.def.h	2023-08-08 20:59:51.271907477 +0700
-+++ config.def.h	2023-08-08 20:56:39.846115659 +0700
+--- a/config.def.h	2023-08-08 20:59:51.271907477 +0700
++++ b/config.def.h	2023-08-08 20:56:39.846115659 +0700
 @@ -5,7 +5,7 @@
   *
   * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
