@@ -64,7 +64,7 @@ static const char *lockcmd[]  = { "slock", NULL };
 
 static const Key keys[] = {
 	/* modifier                     key        function        argument */
-	{ MODKEY,                       XK_Esc,    spawn,          {.v = lockcmd } },
+	{ MODKEY,                       XK_o,    spawn,          {.v = lockcmd } },
 	{ MODKEY,                       XK_r,      spawn,          {.v = dmenucmd } },
 	{ MODKEY,                       XK_w,      spawn,          {.v = browsercmd } },
 	{ MODKEY,             		    XK_Return, spawn,          {.v = termcmd } },
